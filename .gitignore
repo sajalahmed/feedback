@@ -1,0 +1,17 @@
+# Binaries
+server
+tmp
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Environment variables
+.env
+
+# Test coverage
+cover.out
+
+# Editor directories
+.vscode/
+.idea/
